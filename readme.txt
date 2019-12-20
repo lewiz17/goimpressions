@@ -11,6 +11,3 @@ Includes pages:
 
 Fully responsive support
 Lazyload animations
-
-Developed by LAP WebSolutions 
-+573045405216
